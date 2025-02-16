@@ -10,7 +10,7 @@ const User = require('./models/User'); // ✅ Importamos el modelo User
 // Cargar variables de entorno
 dotenv.config();
 
-// Conectar a la base de datos
+// Conectar a la base de datoss
 connectDB();
 
 // ✅ Crear usuario admin si la base de datos está vacía
